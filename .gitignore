@@ -1,0 +1,78 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.branch
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Visual Studio Code
+.vscode/
+
+# JDeveloper
+.jdeveloper/
+metadata/
+
+# BlueJ
+.bluej/
+
+# JAR files are essentially ZIP files, so skip them
+*.jar
+
+# Avoid pushing sensitive or environment-specific files
+application.properties
+application-dev.properties
+application-prod.properties
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
